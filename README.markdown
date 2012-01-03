@@ -21,8 +21,13 @@ file, cleaned it up a bit, and added some gyp-specific keywords.
 
 Example
 -------
-![example
-screenshot](https://github.com/kelan/gyp.vim/raw/master/doc/example_screenshot.png)
+
+Here is a screenshot of it running in
+[MacVim](http://code.google.com/p/macvim/) (specifically, it's alloy's
+[file-browser fork](https://github.com/alloy/macvim)), using the awesome
+[Solarized](http://ethanschoonover.com/solarized) color scheme.
+
+![](https://github.com/kelan/gyp.vim/raw/master/doc/example_screenshot.png)
 
 
 Installation
