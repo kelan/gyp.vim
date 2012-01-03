@@ -19,6 +19,12 @@ I started with the
 file, cleaned it up a bit, and added some gyp-specific keywords.
 
 
+Example
+-------
+![example
+screenshot](https://github.com/kelan/gyp.vim/raw/master/doc/example_screenshot.png)
+
+
 Installation
 ------------
 
