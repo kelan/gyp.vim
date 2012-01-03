@@ -1,6 +1,6 @@
 " Vim indent file
 " Language:     Gyp
-" Maintainer:   Kelan Champagne <kelan@yeahrightkeller.com>
+" Maintainer:   Kelan Champagne  (http://yeahrightkeller.com)
 " URL:          https://github.com/kelan/gyp.vim
 
 " Only load this indent file when no other was loaded.
