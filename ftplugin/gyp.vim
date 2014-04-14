@@ -8,8 +8,6 @@ if exists("b:did_ftplugin")
 endif
 let b:did_ftplugin = 1
 
-set ts=2
-set sw=2
 set tw=0
 set wm=0
 
